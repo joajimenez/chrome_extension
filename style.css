@@ -29,7 +29,7 @@ button:hover {
   cursor: pointer;
 }
 
-#delete-all-btn {
+#delete-btn {
   color: #5f9341;
   background-color: white;
   border: solid 1px #5f9341;
