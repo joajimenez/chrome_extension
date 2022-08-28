@@ -29,6 +29,12 @@ button:hover {
   cursor: pointer;
 }
 
+#delete-all-btn {
+  color: #5f9341;
+  background-color: white;
+  border: solid 1px #5f9341;
+}
+
 #box {
   background-color: rgb(32, 99, 99);
 
