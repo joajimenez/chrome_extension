@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "version": "0.1",
+  "description": "Your personal (and safe) web vault.",
+  "short_name": "JLT",
+  "name": "Joan's Leads Tracker",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "/assets/pay.png",
+    "48": "/assets/pay.png",
+    "128": "/assets/pay.png"
+  }
+}
